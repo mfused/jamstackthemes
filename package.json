@@ -5,7 +5,7 @@
     "deploy:branch": "npm run deploy && echo 'User-agent: *\nDisallow: /' > public/robots.txt"
   },
   "dependencies": {
-    "axios": "^0.21.1",
+    "axios": "^1.6.3",
     "axios-rate-limit": "^1.3.0",
     "cli-spinners": "^2.5.0",
     "date-fns": "^2.16.1",
